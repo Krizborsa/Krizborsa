@@ -1,1 +1,1 @@
-https://Krizborsa.io
+https://Krizborsa.github.io

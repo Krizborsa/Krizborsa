@@ -1,1 +1,1 @@
-https://krizborsa.github.io/Krizborsa/
+Krizborsa
